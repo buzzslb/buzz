@@ -1,42 +1,25 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Galeria de Fotos</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
-        .gallery {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 20px;
-        }
-        .gallery img {
-            width: 200px;
-            height: 200px;
-            object-fit: cover;
-            border: 2px solid #ccc;
-            border-radius: 10px;
-        }
-        .gallery img:hover {
-            transform: scale(1.1);
-            transition: transform 0.3s ease;
-        }
-    </style>
-</head>
-<body>
-    <h1>Minha Galeria de Fotos</h1>
-    <div class="gallery">
-        <!-- Adicione suas imagens aqui -->
-    </div>
-</body>
-</html>
+# Especificações do Meu PC
+
+## Processador
+- Modelo: Intel Core i7-9700K
+- Frequência: 3.60 GHz
+
+## Memória RAM
+- Capacidade: 16 GB
+- Tipo: DDR4
+
+## Placa de Vídeo
+- Modelo: NVIDIA GeForce RTX 2080
+- Memória: 8 GB GDDR6
+
+## Armazenamento
+- SSD: 512 GB NVMe
+- HDD: 1 TB
+
+## Sistema Operacional
+- Windows 10 Pro 64-bit
+
+## Fotos
+![Foto 1](fotos/foto1.jpg)
+![Foto 2](fotos/foto2.jpg)
+![Foto 3](fotos/foto3.jpg)
